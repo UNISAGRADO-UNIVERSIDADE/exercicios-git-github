@@ -45,7 +45,7 @@ Estas são apenas algumas entradas comuns para muitos projetos, mas sinta-se à 
 
 Após completar a tarefa, submeta um breve relatório na issue designada para este exercício no repositório de exercícios. Inclua:
 - Uma descrição das configurações que você adicionou ao seu `.gitignore`.
-- Qualquer desafio que você encontrou ao configurar o `.gitignore` e como você o resolveu.
+- Qualquer desafio que você encontrou ao configurar o `.gitignore` e como você o resolveu .
 
 ## Reflexão
 
