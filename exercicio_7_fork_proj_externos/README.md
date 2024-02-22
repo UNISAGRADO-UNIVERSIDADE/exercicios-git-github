@@ -13,6 +13,7 @@ Este exercício tem como objetivo proporcionar uma compreensão prática de como
 ### Passo 2: Fazer um Fork do Repositório
 
 1. Na página do repositório no GitHub, clique no botão "Fork" no canto superior direito. Isso criará uma cópia do repositório na sua conta do GitHub.
+Antes de fazer o fork, é útil entender melhor o projeto, sua estrutura e sua comunidade. Isso pode incluir a leitura do README do projeto, explorar sua documentação e entender suas diretrizes de contribuição.
 
 ### Passo 3: Clonar o Fork para Sua Máquina Local
 
@@ -52,3 +53,4 @@ Depois de completar a tarefa, submeta um breve relatório na issue designada par
 - Como você se sentiu contribuindo para um projeto de código aberto?
 - Quais foram os desafios que você encontrou e como os superou?
 - Esperamos que este exercício tenha proporcionado uma visão valiosa sobre como contribuir para a comunidade de código aberto. Estamos ansiosos para ver suas contribuições!
+- Incentivar os alunos a refletirem sobre o processo de contribuição e a identificar oportunidades de aprendizado contínuo. Isso pode incluir a exploração de novas tecnologias, o desenvolvimento de habilidades de comunicação e a compreensão de diferentes metodologias de desenvolvimento de software.
