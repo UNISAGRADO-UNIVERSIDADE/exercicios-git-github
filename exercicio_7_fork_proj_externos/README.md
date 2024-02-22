@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este exercício tem como objetivo proporcionar uma compreensão prática de como contribuir para projetos de código aberto. Aprenderá a fazer um fork de repositórios, cloná-los para sua máquina local, realizar mudanças e submeter pull requests para contribuir com melhorias ou correções para o projeto original.
+Este exercício tem como objetivo proporcionar uma compreensão prática de como contribuir para projetos de código aberto. Aque você aprenderá a fazer um fork de repositórios, cloná-los para sua máquina local, realizar mudanças e submeter pull requests para contribuir com melhorias ou correções para o projeto original.
 
 ## Tarefa
 
